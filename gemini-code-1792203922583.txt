@@ -1,0 +1,7 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# If you decide to add node.js for a backend server later
+node_modules/
+.env
